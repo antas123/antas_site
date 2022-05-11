@@ -1,0 +1,35 @@
+body {
+  background-color: #E9D5DA;
+}
+
+hr {
+  border: 10px;
+  border-color: white;
+  border-style: dotted none none;
+  width: 20%;
+  /* height: 50px; */
+}
+
+h1 {
+  color: #827397;
+  text-decoration-line: overline underline;
+  text-decoration-color: black;
+
+}
+h2
+{
+  color:#827397;
+}
+h3{
+  color: #827397;
+  text-decoration-line: underline;
+  text-decoration-color: black;
+  text-decoration-style: dotted;
+}
+body{
+  margin: 3em;
+}
+
+img:hover {
+  background-color:white;
+}
